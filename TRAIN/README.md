@@ -1,6 +1,2 @@
-Los algoritmos son: blah blah
+Los algoritmos son: blah
 
-Metemos reg logist
-
-
-Metemos KMeans hellloooo
