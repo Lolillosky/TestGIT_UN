@@ -1,1 +1,2 @@
-Los algoritmos son: blah blah
+Los algoritmos son: blah
+
